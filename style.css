@@ -27,7 +27,7 @@ header {
 .darklight {
     width: 40px;
     height: 40px;
-    background-image: url(/Projects/PortfolioWebsite_Assignment/Images/Moon.png);
+    background-image: url(/Images/Moon.png);
     background-size: cover;
     border: none;
 }
@@ -73,7 +73,7 @@ header {
 .anish {
     color: #737373;
     font-weight: 630;
-    background: url(/Projects/PortfolioWebsite_Assignment/Images/Underline.svg) no-repeat bottom;
+    background: url(/Images/Underline.svg) no-repeat bottom;
 }
 .tagline {
     font-size: 30px;
@@ -121,10 +121,7 @@ header {
 .abouttitle {
 margin-top: 100px;
 }
-.backhand {
-    width: 380px;
-    background: url(/Projects/PortfolioWebsite_Assignment/Images/Vector.svg) no-repeat;
-}
+
 
 .hand {
   width: 370px;
