@@ -119,13 +119,15 @@ header {
 }
 
 .abouttitle {
-margin-top: 100px;
+    margin-top: 100px;
 }
 
 
 .hand {
-  width: 370px;
-  height: 400px;
+    position: relative;
+    width: 370px;
+    height: 400px;
+    top: -610px;
 }
 .handc {
     height: 350px;
@@ -137,8 +139,10 @@ margin-top: 100px;
 .dline {
     width: 550px;
     height: 35px;
-    border-bottom: 1px solid black;
-    
+    border-bottom: 1px solid black; 
+}
+.paratitlet {
+    font-size: 60px;
 }
 .abpara {
     font-size: 20px;
@@ -149,4 +153,32 @@ font-weight: 700;
 }
 .chit {
     height: 400px;
+}
+
+.vector1 {
+    position: relative;
+    top: -50px;
+    right: 100px;
+    z-index: -5;
+}
+.vector3 {
+    position: relative;
+    top: -60px;
+    left: -70px;
+}
+.vector4 {
+    position:relative;
+    margin-left: 100px;
+    top: -200px;
+    left: 50px;
+}
+.line7 {
+    position: relative;
+    top: -300px;
+    left: 200px;
+}
+.vector5 {
+    position: relative;
+    left: 200px;
+    top: -200px;
 }
