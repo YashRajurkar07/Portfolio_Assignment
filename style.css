@@ -1,184 +1,209 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: 'Segoe UI';
-    
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI";
 }
 header {
-    width: 1699px;
-    height: 40px;
-    margin-top: 15px;
+  width: 1699px;
+  height: 40px;
+  margin-top: 15px;
 }
 .logo {
-    width: 35px;
-    height: 40px;
-    color: aquamarine;
-    color: white;
+  width: 35px;
+  height: 40px;
+  color: aquamarine;
+  color: white;
 }
 .namet {
-    font-size: 25px;
-    font-weight: 700;
-    margin-left: 20px;
+  font-size: 25px;
+  font-weight: 700;
+  margin-left: 20px;
 }
-.navbar{
-    font-size: 20px;
-    font-weight: 700;
+.navbar {
+  font-size: 20px;
+  font-weight: 700;
 }
 .darklight {
-    width: 40px;
-    height: 40px;
-    background-image: url(/Images/Moon.png);
-    background-size: cover;
-    border: none;
+  width: 40px;
+  height: 40px;
+  background-image: url(/Images/Moon.png);
+  background-size: cover;
+  border: none;
 }
 .dark {
-    background-color: #000000;
-    color: white;
+  background-color: #000000;
+  color: white;
 }
 .light {
-    background-color: white;
-    color:#000000;
+  background-color: white;
+  color: #000000;
 }
 .rhit {
-    height: 450px;
+  height: 450px;
 }
 .lalign {
-    height: 500px;
-    flex-direction: column;
-    align-content: top;
-    margin-top: 100px;
+  height: 500px;
+  flex-direction: column;
+  align-content: top;
+  margin-top: 100px;
 }
 .ppw {
-    width: 630px;
+  width: 630px;
 }
 .bod {
-    font-size: 36px;
-    font-weight: 700;
-    padding-top: 7px;
-    width: 197px;
-    height: 72px;
-    text-align: center;
-    border-radius: 50px;
-    border-bottom-left-radius: 0px;
-    color: #FFFFFF;
-    background-image: linear-gradient(to right, #32F6F6 0%, #A6A79F 100%)
-         
+  font-size: 36px;
+  font-weight: 700;
+  padding-top: 7px;
+  width: 197px;
+  height: 72px;
+  text-align: center;
+  border-radius: 50px;
+  border-bottom-left-radius: 0px;
+  color: #ffffff;
+  background-image: linear-gradient(to right, #32f6f6 0%, #a6a79f 100%);
 }
 .par {
-    font-size: 64px;
-    margin-bottom: 0px;
-    width: 338px;
-    height: 83px;
+  font-size: 64px;
+  margin-bottom: 0px;
+  width: 338px;
+  height: 83px;
 }
 .anish {
-    color: #737373;
-    font-weight: 630;
-    background: url(/Images/Underline.svg) no-repeat bottom;
+  color: #737373;
+  font-weight: 630;
+  background: url(/Images/Underline.svg) no-repeat bottom;
 }
 .tagline {
-    font-size: 30px;
-    font-weight: 300;
-    width: 624px;
-    height: 77px;
+  font-size: 30px;
+  font-weight: 300;
+  width: 624px;
+  height: 77px;
 }
 .buttons {
-    margin-top: 150px;
-    width: 375px;
-    height: 60px;
+  margin-top: 150px;
+  width: 375px;
+  height: 60px;
 }
 .gbtn {
-    font-size: 20px;
-    font-weight: 900;
-    width: 175px;
-    height: 40px;
-    background-color: black;
-    color: white;
-    box-shadow: #000000;
-    border-radius: 10px;
+  font-size: 20px;
+  font-weight: 900;
+  width: 175px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  box-shadow: #000000;
+  border-radius: 10px;
 }
 .dbtn {
-    font-size: 20px;
-    font-weight: 900;
-    width: 175px;
-    height: 40px;
-    border: none;
-    background-image: linear-gradient(to right, #DF580C 0%, #FD993D 100%);
-    border-radius: 10px;
+  font-size: 20px;
+  font-weight: 900;
+  width: 175px;
+  height: 40px;
+  border: none;
+  background-image: linear-gradient(to right, #df580c 0%, #fd993d 100%);
+  border-radius: 10px;
 }
 
 .sociallinks {
-    width: 31px;
-    height: 270px;
-    font-size: 30px;
-    flex-direction: column;
-    
-    /* justify-content: space-between; */
-   margin-left: 30px;
-   color: #000000;
+  width: 31px;
+  height: 270px;
+  font-size: 30px;
+  flex-direction: column;
 
+  /* justify-content: space-between; */
+  margin-left: 30px;
+  color: #000000;
 }
 
 .abouttitle {
-    margin-top: 100px;
+  margin-top: 100px;
 }
-
 
 .hand {
-    position: relative;
-    width: 370px;
-    height: 400px;
-    top: -610px;
+  position: relative;
+  width: 370px;
+  height: 400px;
+  top: -610px;
 }
 .handc {
-    height: 350px;
+  height: 350px;
 }
 .handc h4 {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .dline {
-    width: 550px;
-    height: 35px;
-    border-bottom: 1px solid black; 
+  width: 550px;
+  height: 35px;
+  border-bottom: 1px solid black;
 }
 .paratitlet {
-    font-size: 60px;
+  font-size: 60px;
 }
 .abpara {
-    font-size: 20px;
-    text-align: justify;
+  font-size: 20px;
+  text-align: justify;
 }
 .textbold {
-font-weight: 700;
+  font-weight: 700;
 }
 .chit {
-    height: 400px;
+  height: 400px;
 }
 
 .vector1 {
-    position: relative;
-    top: -50px;
-    right: 100px;
-    z-index: -5;
+  position: relative;
+  top: -50px;
+  right: 100px;
+  z-index: -5;
 }
 .vector3 {
-    position: relative;
-    top: -60px;
-    left: -70px;
+  position: relative;
+  top: -60px;
+  left: -70px;
 }
 .vector4 {
-    position:relative;
-    margin-left: 100px;
-    top: -200px;
-    left: 50px;
+  position: relative;
+  margin-left: 100px;
+  top: -200px;
+  left: 50px;
 }
 .line7 {
-    position: relative;
-    top: -300px;
-    left: 200px;
+  position: relative;
+  top: -300px;
+  left: 200px;
 }
 .vector5 {
-    position: relative;
-    left: 200px;
-    top: -180px;
+  position: relative;
+  left: 170px;
+  top: -170px;
+}
+.emailbox {
+  width: 270px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  border-left: 5px solid black;
+  position: relative;
+  transform: rotate(270deg);
+  left: 1330px;
+  top: -130px;
+}
+
+.emailbox p {
+  margin-left: 50px;
+}
+.emailboxa {
+  width: 270px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  border-left: 5px solid black;
+  position: relative;
+  transform: rotate(270deg);
+  left: 1320px;
+  top: -400px;
+}
+.emailboxa p {
+  margin-left: 50px;
 }
